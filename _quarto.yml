@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+# author:
+#   - name: "Matthew D. Grossi"
+#     email: matt.grossi@noaa.gov
+#     orcid: 0000-0002-8550-3189
+#     git: https://github.com/MattGrossi-NOAA
+#     linkedin: https://www.linkedin.com/in/matthewgrossi
+
+format:
+  html:
+    theme:
+      light: lumen
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+

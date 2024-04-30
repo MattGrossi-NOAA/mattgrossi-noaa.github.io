@@ -1,0 +1,24 @@
+---
+title: "Matt Grossi"
+about:
+  template: jolla
+  image: images/me.jpg
+  links:
+    - text: "{{< iconify fxemoji email >}} Email"
+      href: matt.grossi@noaa.gov
+    - icon: github
+      text: GitHub
+      href: https://github.com/MattGrossi-NOAA
+    - text: "{{< iconify skill-icons linkedin >}} LinkedIn"
+      href: https://www.linkedin.com/in/matthewgrossi
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8550-3189
+    - text: "{{< iconify simple-icons researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Matthew_Grossi2
+# For more icons, see https://iconify.design/
+---
+
+*Physical oceanographer by training. Observational oceanographer by practice. <br> 
+Applied machine learning researcher and data scientist by happenstance.*
+
+<!-- ##### I am a **data scientist** with the [NOAA Fisheries](https://www.fisheries.noaa.gov/){target="_blank"} [Southeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center){target="_blank"} (SEFSC) having joined [NOAA](https://www.noaa.gov/){target="_blank"} in 2021 after more than a decade in academia conducting and supporting oceanographic research. I oversee a multidisciplinary team of marine and computer scientists developing innovative artificial intelligence (AI), machine learning (ML), and deep learning (DL) models for automating assorted SEFSC mission priorities including [species identification](https://www.fisheries.noaa.gov/feature-story/increasing-efficiency-video-surveys-artificial-intelligence){target="_blank"}, [fish aging](https://www.fisheries.noaa.gov/feature-story/scientists-identify-more-efficient-means-determine-age-fish-using-ai-and-near-infrared){target="_blank"}, and marine mammal detection from aerial drones. I also facilitate cloud migration, transition planning, data governance, and [open science](https://nmfs-openscapes.github.io/){target="_blank"} initiatives for the SEFSC. -->
