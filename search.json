@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matt Grossi",
+    "section": "",
+    "text": "Physical oceanographer by training. Observational oceanographer by practice.  Applied machine learning researcher and data scientist by happenstance."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Greetings!\nI am a data scientist with the NOAA Fisheries Southeast Fisheries Science Center (SEFSC) having joined NOAA in 2021 after more than a decade in academia conducting and supporting oceanographic research. I oversee multidisciplinary teams of marine and computer scientists developing innovative artificial intelligence (AI), machine learning (ML), and deep learning (DL) models for automating assorted SEFSC mission priorities including species identification and tracking, fish aging, and marine mammal detection from aerial drones.\nI also facilitate cloud migration, transition planning, and data curation and governance initiatives for the SEFSC and represent NOAA Fisheries in the NOAA Artificial Intelligence Working Group. As a strong proponent of FAIR data principles (findable, accessible, interoperable, reusable) and open science, I serve on the SEFSC regional data governance team and participated in the 2024 NMFS OpenScapes Mentor program.\nMy first programming language is R, but nowadays I gravitate to Python due to its prominence and popularity within the ML community. I prefer LaTeX over common word processing software any day. After years of using Jupyter Notebooks for writing Python code and documentating workflows, I was recently introduced to Quarto, which has quickly become my go-to publishing system.\n\n\n Technical Skills\n Python   Jupyter   R   RStudio   LaTeX   GitHub   Docker  - Quarto\n\n\n Education\n\n\nPh.D. Meteorology and Physical Oceanography, University of Miami \nM.S. Oceanography, University of Delaware \nB.S. Physical Oceanography with minor in Meteorology, Florida Institute of Technology\n\n\n\n Experience\n\nData Scientist | 2023-present  NOAA Southeast Fisheries Science Center\nUncrewed Systems Data Coordinator | 2021-2023  NOAA National Centers for Environmental Information\nResearch Assistant | 2016-2021  University of Miami Rosenstiel School of Marine and Atmospheric Science\nResearch Associate | 2014-2016  University of Massachusetts Dartmouth School for Marine Science and Technology / Ocean Observation Laboratory\nResearch Assistant | 2008-2010  University of Delaware / Oceanography, Remote Sensing, and Biogeography Lab\n\n\n\n Interests\n\nProfessional\n\nOcean-atmosphere interactions\nOcean observation using advanced technologies  (e.g., autonomous surface and underwater vehicles, aerial dones, high-frequency radar)\nMachine learning for prediction and task automation\nData visualization\nBiogeography\n\n\n\nPersonal\n\nKayaking, sailing, boating\nBiking, hiking (being outdoors, really)\nReading (mostly nonfiction to keep learning)\nTechnological tinkering (task automations, website building, data visualiztion, etc.)"
+  }
+]
