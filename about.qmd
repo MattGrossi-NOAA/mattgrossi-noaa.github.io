@@ -6,6 +6,7 @@ about:
   image: images/me.jpg
   image-width: 90%
   image-alt: "headshot"
+  
   links:
     - text: "{{< iconify fxemoji email >}} Email"
       href: matt.grossi@noaa.gov
@@ -20,25 +21,37 @@ about:
       href: https://www.researchgate.net/profile/Matthew_Grossi2
 ---
 
-#### Greetings!
+##### Greetings!
 
 I am a **data scientist** with the [NOAA Fisheries](https://www.fisheries.noaa.gov/){target="_blank"} [Southeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center){target="_blank"} (SEFSC) having joined [NOAA](https://www.noaa.gov/){target="_blank"} in 2021 after more than a decade in academia conducting and supporting oceanographic research. I oversee multidisciplinary teams of marine and computer scientists developing innovative artificial intelligence (AI), machine learning (ML), and deep learning (DL) models for automating assorted SEFSC mission priorities including [species identification and tracking](https://www.fisheries.noaa.gov/feature-story/increasing-efficiency-video-surveys-artificial-intelligence){target="_blank"}, [fish aging](https://www.fisheries.noaa.gov/feature-story/scientists-identify-more-efficient-means-determine-age-fish-using-ai-and-near-infrared){target="_blank"}, and marine mammal detection from aerial drones.
 
 I also facilitate cloud migration, transition planning, and data curation and governance initiatives for the SEFSC and represent NOAA Fisheries in the NOAA Artificial Intelligence Working Group. As a strong proponent of FAIR data principles (**f**indable, **a**ccessible, **i**nteroperable, **r**eusable) and [open science](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries){target="_blank"}, I serve on the SEFSC regional data governance team and participated in the 2024 [NMFS OpenScapes Mentor](https://nmfs-openscapes.github.io/){target="_blank"} program.
 
-My first programming language is **R**, but nowadays I gravitate to **Python** due to its prominence and popularity within the ML community. I prefer **LaTeX** over common word processing software any day. After years of using **Jupyter Notebooks** for writing Python code and documentating workflows, I was recently introduced to **Quarto**, which has quickly become my go-to publishing system.
+My first programming language is **R**, but nowadays I gravitate to **Python** due to its widespread popularity within the ML community. If a task seems automatable, I like to find a way. I prefer **LaTeX** over common word processing software any day. After years of using **Jupyter Notebooks** for writing Python code and documentating workflows, I was recently introduced to **Quarto**, which is quickly becoming my go-to publishing system.
 
 #### {{< iconify solar programming-outline >}} Technical Skills
 
+:::: {layout-ncol="3"}
+:::{}
 {{< iconify logos python >}} Python <br>
 {{< iconify logos jupyter >}} Jupyter <br>
 {{< iconify mdi language-r >}} R <br>
 {{< iconify devicon rstudio >}} RStudio <br>
+:::
+:::{}
+{{< iconify devicon matlab >}} MATLAB* <br>
+{{< iconify skill-icons docker >}} Docker <br>
 {{< iconify skill-icons latex-dark >}} LaTeX <br>
 {{< iconify mdi github >}} GitHub <br>
-{{< iconify skill-icons docker >}} Docker <br>
-- Quarto
+:::
+:::{}
+- UNIX*
+- Machine Learning
+- Quarto*
+:::
+::::
 
+*Indicates working knowledge. Not an expert by any means.
 
 #### {{< iconify zondicons education >}} Education
 
@@ -52,7 +65,7 @@ My first programming language is **R**, but nowadays I gravitate to **Python** d
 - **M.S.** Oceanography, University of Delaware <br>
 - **B.S.** Physical Oceanography with minor in Meteorology, Florida Institute of Technology
 
-#### {{< iconify ic baseline-work >}} Experience
+<!-- #### {{< iconify ic baseline-work >}} Experience
 
 - **Data Scientist** | 2023-present <br>
 NOAA Southeast Fisheries Science Center
@@ -65,7 +78,7 @@ University of Massachusetts Dartmouth School for Marine Science and Technology /
 Ocean Observation Laboratory
 - **Research Assistant** | 2008-2010 <br>
 University of Delaware /
-Oceanography, Remote Sensing, and Biogeography Lab
+Oceanography, Remote Sensing, and Biogeography Lab -->
 
 #### {{< iconify ic baseline-interests >}} Interests
 

@@ -1,0 +1,21 @@
+---
+title: Science Communication
+---
+
+Science communication is more important today than ever before. I am passionate about science outreach and advocacy.
+
+## Technical Presentations
+
+### Meeting and Conference Talks (selected)
+
+
+
+### Posters
+
+*Posters for which I was lead presenter. Excluded are posters on which I was a contributing author but not lead presenter.*
+
+1. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2019) Predicting Oil Transport in Oceanic Flows: Are Neural Networks UP to the Task?, Gulf of Mexico Oil Spill and Ecosystem Science Conference, New Orleans, LA.
+
+2. **Grossi, M.D.**, E.F. Geiger, A.J. Irwin, F. Veron, M.J. Oliver (2010) Predicting Open Ocean Density Profiles from Satellite Observations, 2010 Ocean Sciences Meeting, Portland, OR.
+
+3. **Grossi, M.D.** (2007) Evaluation of the Real-Time Ocean Forecast System in Florida Atlantic Coastal Waters, Florida Institute of Technology Department of Marine & Environmental Systems Summer Symposium, Melbourne, FL. (*Both oral and poster presentation*)
