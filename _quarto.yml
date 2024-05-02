@@ -1,8 +1,10 @@
 project:
   type: website
+  preview:
+    port: 4200
 
 website:
-  title: "website"
+  title: "Matt Grossi"
   page-footer:
     background: "#F8F8FF"
     left: "&copy; 2024, Matthew D. Grossi"
@@ -13,11 +15,26 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: Research
+        href: content/research.qmd
+        menu:
+          - text: Evaluation of RTOFS
+            href: content/research/rtofs.qmd
+          - text: NPQ of phytoplankton
+            href: content/research/npq.qmd
+          - text: Density prediction
+            href: content/research/density-prediction.qmd
+          - text: Climate patterns
+            href: content/research/climate-patterns.qmd
+          - text: Trajectory prediction
+            href: content/research/trajectory-prediction.qmd
+      - href: content/talks.qmd
+        text: Talks
+      - href: content/teaching.qmd
+        text: Teaching
       - href: content/Grossi_mCV.pdf
         text: CV
-      - href: content/teaching.qmd
-        text: Science Communication
-
+    
 # author:
 #   - name: "Matthew D. Grossi"
 #     email: matt.grossi@noaa.gov
