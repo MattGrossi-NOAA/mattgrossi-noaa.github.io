@@ -5,7 +5,7 @@ about:
   image: images/me.jpg
   links:
     - text: "{{< iconify fxemoji email >}} Email"
-      href: matt.grossi@noaa.gov
+      href: "mailto:matt.grossi@noaa.gov"
     - icon: github
       text: GitHub
       href: https://github.com/MattGrossi-NOAA
