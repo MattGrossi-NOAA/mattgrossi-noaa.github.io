@@ -14,7 +14,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
       - text: Research
         href: content/research.qmd
         menu:
@@ -49,6 +50,7 @@ format:
       dark: darkly
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
