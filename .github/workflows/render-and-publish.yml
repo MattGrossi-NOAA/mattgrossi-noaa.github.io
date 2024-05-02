@@ -4,9 +4,7 @@ on:
   pull_request:
 
 permissions:
-  id-token:
-    - read
-    - write
+  id-token: read/write
   
 jobs:
   quarto-render-and-deploy:
