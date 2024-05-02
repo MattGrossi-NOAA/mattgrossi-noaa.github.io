@@ -1,0 +1,31 @@
+---
+pagetitle: Talks
+---
+
+## Technical Presentations
+
+### Meeting and Conference Talks (selected)
+
+1. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2020) Can Neural Networks Learn Realistic Ocean Trajectories?, Gulf of Mexico Oil Spill and Ecosystem Science Conference, Tampa, FL.
+
+2. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2020) Predicting particle trajectories using artificial neural networks, Multidisciplinary University Research Initiative (MURI) Machine Learning for Submesoscale Characterization, Ocean Prediction, and Exploration (SCOPE) project kickoff meeting, Massachusetts Institute of Technology, Cambridge, MA.
+
+3. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2019) Predicting particle trajectories using artificial neural networks, Consortium for Advanced Research on Transport of Hydrocarbon in the Environment Fall All-Hands Meeting, University of Miami, Key Biscayne, FL.
+
+4. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2018) A first glimpse at predicting ocean dispersion using artificial neural networks, Consortium for Advanced Research on Transport of Hydrocarbon in the Environment Spring All-Hands Meeting, University of Miami, Key Biscayne, FL.
+
+5. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2018) A first glimpse at predicting ocean dispersion using artificial neural networks, University of Miami Center for Computational Sciences Fellows Symposium, Coral Gables, FL.
+
+6. **Grossi, M.D.**, T.M. Özgökmen (2018) Can artificial intelligence predict the dispersion of spilled oil?, Gulf of Mexico Oil Spill and Ecosystem Science Conference, New Orleans, LA.
+
+7. **Grossi, M.D.** (2007) Evaluation of the Real-Time Ocean Forecast System in Florida Atlantic Coastal Waters, Florida Institute of Technology Department of Marine & Environmental Systems Summer Symposium, Melbourne, FL. (*Both oral and poster presentation*)
+
+### Posters
+
+*Posters for which I was lead presenter. Excluded are posters on which I was a contributing author but not lead presenter.*
+
+1. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2019) Predicting Oil Transport in Oceanic Flows: Are Neural Networks Up to the Task?, Gulf of Mexico Oil Spill and Ecosystem Science Conference, New Orleans, LA.
+
+2. **Grossi, M.D.**, E.F. Geiger, A.J. Irwin, F. Veron, M.J. Oliver (2010) Predicting Open Ocean Density Profiles from Satellite Observations, 2010 Ocean Sciences Meeting, Portland, OR.
+
+3. **Grossi, M.D.** (2007) Evaluation of the Real-Time Ocean Forecast System in Florida Atlantic Coastal Waters, Florida Institute of Technology Department of Marine & Environmental Systems Summer Symposium, Melbourne, FL. (*Both oral and poster presentation*)
