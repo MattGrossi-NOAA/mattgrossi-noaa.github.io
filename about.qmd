@@ -4,7 +4,7 @@ about:
   id: hero-heading
   template: trestles
   image: images/me.jpg
-  image-width: 90%
+  image-width: 75%
   image-alt: "headshot"
   
   links:
@@ -27,7 +27,7 @@ I am a **data scientist** with the [NOAA Fisheries](https://www.fisheries.noaa.g
 
 I also facilitate cloud migration, transition planning, and data curation and governance initiatives for the SEFSC and represent NOAA Fisheries in the NOAA Artificial Intelligence Working Group. As a strong proponent of FAIR data principles (**f**indable, **a**ccessible, **i**nteroperable, **r**eusable) and [open science](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries){target="_blank"}, I serve on the SEFSC regional data governance team and participated in the 2024 [NMFS OpenScapes Mentor](https://nmfs-openscapes.github.io/){target="_blank"} program.
 
-My first programming language is **R**, but nowadays I gravitate to **Python** due to its widespread popularity within the ML community. If a task seems automatable, I like to find a way. I prefer **LaTeX** over common word processing software any day. After years of using **Jupyter Notebooks** for writing Python code and documentating workflows, I was recently introduced to **Quarto**, which is quickly becoming my go-to publishing system.
+<!-- My first programming language is **R**, but nowadays I gravitate to **Python** due to its widespread popularity within the ML community. If a task seems automatable, I like to find a way. I prefer **LaTeX** over common word processing software any day. After years of using **Jupyter Notebooks** for writing Python code and documentating workflows, I was recently introduced to **Quarto**, which is quickly becoming my go-to publishing system. -->
 
 #### {{< iconify solar programming-outline >}} Technical Skills
 
