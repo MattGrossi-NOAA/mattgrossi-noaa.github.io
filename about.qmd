@@ -29,7 +29,7 @@ I also facilitate cloud migration, transition planning, and data curation and go
 
 <!-- My first programming language is **R**, but nowadays I gravitate to **Python** due to its widespread popularity within the ML community. If a task seems automatable, I like to find a way. I prefer **LaTeX** over common word processing software any day. After years of using **Jupyter Notebooks** for writing Python code and documentating workflows, I was recently introduced to **Quarto**, which is quickly becoming my go-to publishing system. -->
 
-A full bio, for the inquisitive mind, can be enjoyed [here](bio.qmd).
+A full bio narrative, for the inquisitive mind, can be enjoyed [here](bio.qmd).
 
 #### {{< iconify solar programming-outline >}} Technical Skills
 

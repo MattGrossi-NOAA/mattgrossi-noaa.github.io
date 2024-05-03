@@ -1,5 +1,5 @@
 ---
-title: Meet Matt (the longer version)
+title: Meet Matt <br> (the longer version)
 about:
   id: hero-heading
   template: trestles
@@ -22,7 +22,7 @@ about:
 ---
 
 
-## My career path
+## My Career Path
 
 
 ### Inspired by fruit
