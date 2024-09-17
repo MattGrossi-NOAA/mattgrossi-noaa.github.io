@@ -8,7 +8,7 @@ pagetitle: Talks
 
 1. **Grossi, M.D.** (2024) Machine learning success and the next generation of data governance at the Southeast Fisheries Science Center, 2024 NOAA Enterprise Data Management Workshop (EDMW), *virtual*.
 
-2. **Grossi, M.D.** (2022) From Good to Great: Strengthening the FAIRness of underwater glider data through community metadata implementation, Underwater Gliders User Group Workshop (UG2) 2022, Seattle, WA.
+2. **Grossi, M.D.** (2022) From Good to Great: Strengthening the FAIRness of underwater glider data through community metadata implementation, Underwater Gliders User Group (UG2) Workshop 2022, Seattle, WA.
 
 3. **Grossi, M.D.** (2022) Migrating the Surface Underway Marine Database to the Cloud: Challenges and Lessons Learned, 2022 NOAA Environmental Data Management Workshop (EDMW), *virtual*.
 

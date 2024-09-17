@@ -8,7 +8,7 @@ listing:
     type: grid
 ---
 
-My research interests are diverse include surface ocean flow dynamics, material transport, ocean forecasting and predictability, biogeography, and ocean-atmosphere dynamics. Below are current and past research projects that I have conducted, participated in, or contributed to.
+My research interests are diverse and include surface ocean flow dynamics, material transport, ocean forecasting and predictability, biogeography, and ocean-atmosphere dynamics. Below are current and past research projects that I have conducted, participated in, or contributed to.
 
 <!-- :::{#research}
 ::: -->
