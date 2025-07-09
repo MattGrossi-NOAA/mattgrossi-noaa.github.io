@@ -6,55 +6,60 @@ image-alt: "Screenshot of automatic species detection in action."
 author:
   - name: S.Y. Alaba
     affiliations:
-        - name: Mississippi State University
-          city: Starkville
-          state: MS    
+      - name: Mississippi State University
+        city: Starkville
+        state: MS    
   - name: J.E. Ball
     affiliations:
-        - name: Mississippi State University
-          city: Starkville
-          state: MS
+      - name: Mississippi State University
+        city: Starkville
+        state: MS
   - name: R. Caillouet
     affiliations:
-        - name: NOAA Southeast Fisheries Science Center
-          city: Pascagoula
-          state: MS
+      - name: NOAA Southeast Fisheries Science Center
+        city: Pascagoula
+        state: MS
   - name: M.D. Campbell
     affiliations:
-        - name: NOAA Southeast Fisheries Science Center
-          city: Pascagoula
-          state: MS
+      - name: NOAA Southeast Fisheries Science Center
+        city: Pascagoula
+        state: MS
   - name: M.D. Grossi
     affiliations:
-        - name: NOAA Southeast Fisheries Science Center
-          city: Beaufort
-          state: NC
+      - name: NOAA Southeast Fisheries Science Center
+        city: Beaufort
+        state: NC
   - name: R. Moorhead
     affiliations:
-        - name: Mississippi State University
-          city: Starkville
-          state: MS
+      - name: Mississippi State University
+        city: Starkville
+        state: MS
   - name: M.M. Nabi
     affiliations:
-        - name: Mississippi State University
-          city: Starkville
-          state: MS  
+      - name: Mississippi State University
+        city: Starkville
+        state: MS  
   - name: J. Prior
     affiliations:
-        - name: NOAA Southeast Fisheries Science Center
-          city: Pascagoula
-          state: MS
+      - name: NOAA Southeast Fisheries Science Center
+        city: Pascagoula
+        state: MS
+  - name: T.J. Rowell
+    affiliations:
+      - name: NOAA Southeast Fisherise Science Center
+        city: Beaufort
+        state: NC
   - name: C. Shah
     affiliations:
-        - name: Mississippi State University
-          city: Starkville
-          state: MS
+      - name: Mississippi State University
+        city: Starkville
+        state: MS
   - name: F. Wallace
     affiliations:
-        - name: NOAA Southeast Fisheries Science Center
-          city: Galveston
-          state: TX
-  - name: ...and others
+      - name: NOAA Southeast Fisheries Science Center
+        city: Galveston
+        state: TX
+  - name: ...*and others*
 order: 6
 toc: False
 ---
@@ -67,10 +72,10 @@ Artificial intelligence (AI), machine learning (ML), and deep learning (DL) rese
 
 ### Papers and Conference Proceedings
 
-1. Alaba, S.Y., J.H. Prior, C. Shah, M.M. Nabi, J.E. Ball, R. Moorhead, M.D. Campbell, F. Wallace, and **M.D. Grossi** (2024)"Multifish tracking for marine biodiversity monitoring," Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610E (6 June 2024), https://doi.org/10.1117/12.3013503.
+1. Alaba, S.Y., J.H. Prior, C. Shah, M.M. Nabi, J.E. Ball, R. Moorhead, M.D. Campbell, F. Wallace, and **M.D. Grossi** (2024)Multifish tracking for marine biodiversity monitoring, Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610E (6 June 2024), https://doi.org/10.1117/12.3013503.
 
-2. Shah, C., M.M. Nabi, S.Y. Alaba, R. Caillouet, J. Prior, M. Campbell, **M.D. Grossi**, F. Wallace, J.E. Ball, and R. Moorhead (2024) "Active detection for fish species recognition in underwater environments," Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610D (6 June 2024), https://doi.org/10.1117/12.3013344.
+2. Shah, C., M.M. Nabi, S.Y. Alaba, R. Caillouet, J. Prior, M. Campbell, **M.D. Grossi**, F. Wallace, J.E. Ball, and R. Moorhead (2024) Active detection for fish species recognition in underwater environments, Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610D (6 June 2024), https://doi.org/10.1117/12.3013344.
 
-3. Shah, C., M.M. Nabi, S.Y. Alaba, I.A. Ebu, J. Prior, M.D. Campbell, R. Caillouet, **M.D. Grossi**, T. Rowell, F. Wallace, J.E. Ball, and R. Moorhead (2025) "YOLOv8-TF: Transformer-Enhanced YOLOv8 for Underwater Fish Species Recognition with Class Imbalance Handling," Sensors, 25(6), 1846, https://doi.org/10.3390/s25061846.
+3. Shah, C., M.M. Nabi, S.Y. Alaba, I.A. Ebu, J. Prior, M.D. Campbell, R. Caillouet, **M.D. Grossi**, T. Rowell, F. Wallace, J.E. Ball, and R. Moorhead (2025) YOLOv8-TF: Transformer-Enhanced YOLOv8 for Underwater Fish Species Recognition with Class Imbalance Handling, Sensors, 25(6), 1846, https://doi.org/10.3390/s25061846.
 
-4. Shah, C., M.M. Nabi, I.A. Ebu, J. Prior, **M.D. Grossi**, F. Wallace, T. Rowell, J.E. Ball, R. Moorhead, R. Caillouet, M. Campbell (2025) "Improved fish tracking in underwater images for marine biodiversity monitoring," Proc. SPIE 13460, Machine Learning from Challenging Data 2025, 134600F (29 May 2025), https://doi.org/10.1117/12.3053499.
+4. Shah, C., M.M. Nabi, I.A. Ebu, J. Prior, **M.D. Grossi**, F. Wallace, T. Rowell, J.E. Ball, R. Moorhead, R. Caillouet, M. Campbell (2025) Improved fish tracking in underwater images for marine biodiversity monitoring, Proc. SPIE 13460, Machine Learning from Challenging Data 2025, 134600F (29 May 2025), https://doi.org/10.1117/12.3053499.
