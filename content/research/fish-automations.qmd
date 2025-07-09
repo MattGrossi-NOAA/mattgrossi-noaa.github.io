@@ -1,0 +1,76 @@
+---
+title: "Advancing Innovative Data Processing Techniques by Leveraging AI and ML Technologies"
+description: Improving efficiency of identifying, tracking, and ageing fish from video and imagery <br> 2023-present
+image: "../../images/VIAME_screenshot.png"
+image-alt: "Screenshot of automatic species detection in action."
+author:
+  - name: S.Y. Alaba
+    affiliations:
+        - name: Mississippi State University
+          city: Starkville
+          state: MS    
+  - name: J.E. Ball
+    affiliations:
+        - name: Mississippi State University
+          city: Starkville
+          state: MS
+  - name: R. Caillouet
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Pascagoula
+          state: MS
+  - name: M.D. Campbell
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Pascagoula
+          state: MS
+  - name: M.D. Grossi
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Beaufort
+          state: NC
+  - name: R. Moorhead
+    affiliations:
+        - name: Mississippi State University
+          city: Starkville
+          state: MS
+  - name: M.M. Nabi
+    affiliations:
+        - name: Mississippi State University
+          city: Starkville
+          state: MS  
+  - name: J. Prior
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Pascagoula
+          state: MS
+  - name: C. Shah
+    affiliations:
+        - name: Mississippi State University
+          city: Starkville
+          state: MS
+  - name: F. Wallace
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Galveston
+          state: TX
+  - name: ...and others
+order: 6
+toc: False
+---
+
+![Screenshot of automatic species detection and classification in action, with bounding boxes showing fish found within the image and label indicating the most probable species name and uncertainty. Image courtesy of J. Prior.](../../images/VIAME_screenshot.png){fig-alt="Screenshot of automatic species detection in action."}
+
+***
+
+Artificial intelligence (AI), machine learning (ML), and deep learning (DL) research and development has rapidly accelerated in recent years throughout NOAA. At the NOAA Fisheries Southeast Fisheries Science Center (SEFSC), innovative ML-based automations have been developed for [ageing fish](https://www.fisheries.noaa.gov/feature-story/scientists-identify-more-efficient-means-determine-age-fish-using-ai-and-near-infrared){target="_blank"} (*e.g.*, red snapper, Atlantic menhaden), [species identification, and tracking](https://www.fisheries.noaa.gov/feature-story/increasing-efficiency-video-surveys-artificial-intelligence){target="_blank"} reef fish in underwater survey videos. Fish age is the fundamental parameter used for estimating growth, longevity, mortality, maturity, and reproductive output of specific species stock, while species counts provide estimates of abundance and diversity. All of this information gets feds into stock assessment models to enable science-based fisheries management. These automations have been developed by academic partners at the University of Washington and Mississippi State University in collaboration with SEFSC staff, with the goal of increasing the Center's capacity to process data and the efficiency with which the Center is able to fulfill its mission of providing the scientific advice and data needed to effectively manage the living marine resources of the Southeast Region and Atlantic High Seas.
+
+### Papers and Conference Proceedings
+
+1. Alaba, S.Y., J.H. Prior, C. Shah, M.M. Nabi, J.E. Ball, R. Moorhead, M.D. Campbell, F. Wallace, and **M.D. Grossi** (2024)"Multifish tracking for marine biodiversity monitoring," Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610E (6 June 2024), https://doi.org/10.1117/12.3013503.
+
+2. Shah, C., M.M. Nabi, S.Y. Alaba, R. Caillouet, J. Prior, M. Campbell, **M.D. Grossi**, F. Wallace, J.E. Ball, and R. Moorhead (2024) "Active detection for fish species recognition in underwater environments," Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610D (6 June 2024), https://doi.org/10.1117/12.3013344.
+
+3. Shah, C., M.M. Nabi, S.Y. Alaba, I.A. Ebu, J. Prior, M.D. Campbell, R. Caillouet, **M.D. Grossi**, T. Rowell, F. Wallace, J.E. Ball, and R. Moorhead (2025) "YOLOv8-TF: Transformer-Enhanced YOLOv8 for Underwater Fish Species Recognition with Class Imbalance Handling," Sensors, 25(6), 1846, https://doi.org/10.3390/s25061846.
+
+4. Shah, C., M.M. Nabi, I.A. Ebu, J. Prior, **M.D. Grossi**, F. Wallace, T. Rowell, J.E. Ball, R. Moorhead, R. Caillouet, M. Campbell (2025) "Improved fish tracking in underwater images for marine biodiversity monitoring," Proc. SPIE 13460, Machine Learning from Challenging Data 2025, 134600F (29 May 2025), https://doi.org/10.1117/12.3053499.
